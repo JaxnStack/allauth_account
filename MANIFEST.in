@@ -1,0 +1,3 @@
+include README.md
+recursive-include django_auth_plugin/templates *
+recursive-include django_auth_plugin/static *

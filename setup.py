@@ -12,5 +12,5 @@ setup(
     description='A plugin for user authentication, signup, login, email confirmation, and password reset.',
     author='Jackson Njihia',
     author_email='njihiajack7son@gmail.com',
-    url='https://github.com/your-repo-url',
+    url='https://github.com/JaxnStack/allauth_account.git',
 )
